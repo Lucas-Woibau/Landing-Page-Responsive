@@ -41,7 +41,7 @@ Here are the technologies used in this project.
 ![Fotos](https://github.com/Lucas-Woibau/Landing-Page-Responsive/blob/main/public/img/foto2.1.png?raw=true)
 
 ## Links
-  - Repository: https://github.com/Lucas-Woibau/upload_GoogleGlass
+  - Repository: https://github.com/Lucas-Woibau/Landing-Page-Responsive/tree/main
     - In case of sensitive bugs like security vulnerabilities, please contact
       lucaswoibau7@gmail.com directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
