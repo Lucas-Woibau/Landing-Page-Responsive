@@ -1,7 +1,4 @@
 
-![Logo of the project](https://github.com/Lucas-Woibau/Landing-Page-Responsive/blob/main/img/logoPronta.png?raw=true)
-
-
 ## Landing Page Responsive Site
 This is my first landing page \o/ 
 
