@@ -42,6 +42,14 @@ header{
     margin-left: 0.8rem;
 }
 
+.meio h1, p{
+    padding-left: 10px;
+}
+
+.cta{
+    padding-left: 10px;
+}
+
 ul{
     display: flex;
     list-style: none;
