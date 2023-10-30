@@ -8,7 +8,7 @@ Minha primeira landing page \o/
 
 ## Página Inicial:
 
-![Home](https://github.com/Lucas-Woibau/Landing-Page-Responsive/blob/main/public/img/foto1.png?raw=true)
+![Home]([https://github.com/Lucas-Woibau/Landing-Page-Responsive/blob/main/public/img/foto1.png?raw=true](https://github.com/Lucas-Woibau/Landing-Page-Responsive/blob/main/public/foto1.png?raw=true))
 
 <div align="center">
 
