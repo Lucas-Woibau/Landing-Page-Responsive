@@ -1,4 +1,3 @@
-# Landing Page Responsive
 # Sobre o projeto
 
 https://landing-page-responsive-nine.vercel.app/
