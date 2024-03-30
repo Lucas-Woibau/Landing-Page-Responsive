@@ -1,4 +1,4 @@
-# Sobre o projeto
+# Sobre 
 
 https://landing-page-responsive-nine.vercel.app/
 
